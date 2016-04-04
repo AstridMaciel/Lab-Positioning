@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.cuadrado{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+#rojo{
+	background-color: #ee3e64;
+	position: absolute;
+	left: 0;
+	top: 0;
+	
+}
+#azul{
+	background-color: #44accf;
+	position: absolute;
+	right: 0;
+	top: 0;
+	
+}
+#verde{
+	background-color: #b7d84b;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+}
+#amarillo{
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
